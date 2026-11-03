@@ -36,6 +36,4 @@ This is a learning project, not a safe sandbox:
 - `.env` variants like `.env.local` aren't blocked; `list_files` has no checks.
 - One API error ends the session; history is never trimmed.
 
-## Credit
 
-Inspired by Theo's article "What is a 'harness'?".
